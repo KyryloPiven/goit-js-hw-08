@@ -1,3 +1,19 @@
+body {
+  background-color: #f6f5f5;
+  /* color: transparent; */
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
